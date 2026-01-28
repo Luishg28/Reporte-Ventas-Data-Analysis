@@ -1,4 +1,6 @@
 Análisis de Desempeño de Ventas y Clientes – Power BI
+
+
 📌 Overview
 Analicé un conjunto de datos de ventas con el objetivo de transformar información cruda en insights útiles para la toma de decisiones mediante Dashboard interactivos en Power BI.
 
